@@ -28,7 +28,7 @@ Node* recurse(Node* root) {
 	return root;
 }
 
-// Rafa's
+// Rafa's try
 /*
 void	convert(Node *bst, Node *prev) {
 	if (bst->left)
